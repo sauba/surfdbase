@@ -12,8 +12,8 @@ export default function About() {
         items-center
         bg-blue-400
         to-amber-300
-      text-black
-      font-castoro-titling
+       text-zinc-100
+        font-castoro-titling
         pt-16
       `}
       id="about"
