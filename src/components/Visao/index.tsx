@@ -7,7 +7,7 @@ export default function Visao() {
         flex
         flex-col
         xl:flex
-        py-2
+        py-4
         text-zinc-50
         justify-around
       `}
