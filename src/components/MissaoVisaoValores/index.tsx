@@ -6,7 +6,6 @@ export default function MissaoVisaoValores() {
   return (
     <div
       className={`
-        min-h-screen
         w-full
         flex
         flex-col
