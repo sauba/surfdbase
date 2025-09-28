@@ -10,7 +10,6 @@ export default function About() {
         mx-auto
         justify-center
         items-center
-        bg-blue-400
         to-amber-300
        text-zinc-100
         font-castoro-titling

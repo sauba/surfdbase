@@ -1,5 +1,5 @@
-import AbordagemHumanista from "@/components/AbordagemHumanista"
 import About from "@/components/About"
+import Atletas from "@/components/Atletas"
 import Footer from "@/components/Footer"
 import Header from "@/components/Header"
 import MissaoVisaoValores from "@/components/MissaoVisaoValores"
@@ -20,12 +20,13 @@ export default function Home() {
       min-h-screen
       items-center
       justify-center
+      bg-blue-400
       `}
     >
       <Header />
       <About />
       <MissaoVisaoValores />
-      <AbordagemHumanista />
+      <Atletas />
       <Footer />
     </main>
   )

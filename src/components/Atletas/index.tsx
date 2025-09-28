@@ -1,16 +1,15 @@
 import KeenSliderAuto from "../KeenSliderAuto"
 
-export default function AbordagemHumanista() {
+export default function Atletas() {
   return (
     <div
       className={`
         w-full
         flex
         flex-col
-        bg-amber-950/50
         text-red-50
         `}
-      id="abordagem"
+      id="atletas"
     >
       <p
         className={`

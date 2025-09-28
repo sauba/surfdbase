@@ -11,7 +11,8 @@ export default function MissaoVisaoValores() {
         flex-col
         xl:grid
         xl:grid-cols-3
-        bg-blue-400
+        py-8
+        bg-blue-950
         text-red-50
         justify-around
         font-castoro-titling
