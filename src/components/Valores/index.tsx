@@ -7,6 +7,7 @@ export default function Valores() {
         flex
         flex-col
         xl:flex
+        pb-3
         text-zinc-50
       `}
       id="valores"
@@ -18,7 +19,7 @@ export default function Valores() {
               xl:text-6xl
               2xl:text-8xl
               font-bad-script
-              xl:pt-40
+              
       `}>
         Valores
       </p>
@@ -29,7 +30,7 @@ export default function Valores() {
             xl:text-xl
             2xl:text-2xl
             text-center
-            xl:pt-80
+            
           `}
       >
         🌊 Paixão pelo Surf
