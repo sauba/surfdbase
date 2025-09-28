@@ -7,8 +7,7 @@ export default function Visao() {
         flex
         flex-col
         xl:flex
-        bg-amber-950/50
-        text-red-50
+        text-zinc-50
         justify-around
       `}
       id="visao"
@@ -18,8 +17,6 @@ export default function Visao() {
               text-3xl
               md:text-4xl
               xl:text-6xl
-              pt-8
-              xl:pb-4
               2xl:text-8xl
               font-bad-script
       `}>
@@ -29,8 +26,6 @@ export default function Visao() {
       <p
         className={`
             px-3
-            pt-4
-            pb-10
             xl:text-xl
             2xl:text-2xl
             text-center

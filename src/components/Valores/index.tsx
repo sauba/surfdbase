@@ -7,9 +7,7 @@ export default function Valores() {
         flex
         flex-col
         xl:flex
-        bg-amber-950/50
-        text-red-50
-        justify-around
+        text-zinc-50
       `}
       id="valores"
     >
@@ -18,10 +16,9 @@ export default function Valores() {
               text-3xl
               md:text-4xl
               xl:text-6xl
-              pt-8
-              xl:pb-4
               2xl:text-8xl
               font-bad-script
+              xl:pt-40
       `}>
         Valores
       </p>
@@ -29,12 +26,10 @@ export default function Valores() {
       <p
         className={`
             px-3
-            pb-2
             xl:text-xl
             2xl:text-2xl
             text-center
-            tracking-widest
-            leading-6
+            xl:pt-80
           `}
       >
         🌊 Paixão pelo Surf
@@ -43,12 +38,9 @@ export default function Valores() {
       <p
         className={`
             px-3
-            pb-2
             xl:text-xl
             2xl:text-2xl
             text-center
-            tracking-widest
-            leading-6
           `}
       >
         🤝 Inclusão Social
@@ -57,12 +49,9 @@ export default function Valores() {
       <p
         className={`
             px-3
-            pb-2
             xl:text-xl
             2xl:text-2xl
             text-center
-            tracking-widest
-            leading-6
           `}
       >
         🏅 Disciplina e Respeito
@@ -71,12 +60,9 @@ export default function Valores() {
       <p
         className={`
             px-3
-            pb-2
             xl:text-xl
             2xl:text-2xl
             text-center
-            tracking-widest
-            leading-6
           `}
       >
         💙 Saúde e Bem-Estar
@@ -85,12 +71,9 @@ export default function Valores() {
       <p
         className={`
             px-3
-            pb-2
             xl:text-xl
             2xl:text-2xl
             text-center
-            tracking-widest
-            leading-6
           `}
       >
         🌱 Consciência Ambiental
@@ -99,12 +82,9 @@ export default function Valores() {
       <p
         className={`
             px-3
-            pb-2
             xl:text-xl
             2xl:text-2xl
             text-center
-            tracking-widest
-            leading-6
           `}
       >
         ⭐ Superação
