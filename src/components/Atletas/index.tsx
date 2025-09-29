@@ -1,3 +1,4 @@
+import AtletaCard from "../AtletaCard"
 import KeenSliderAuto from "../KeenSliderAuto"
 
 export default function Atletas() {
@@ -25,11 +26,15 @@ export default function Atletas() {
               font-bad-script
             `}
       >
-        Atletas
+        Atleta do Mês
       </p>
 
       <div className={`w-full flex flex-col justify-center items-center mx-auto my-4 lg:my-6 overflow-hidden`}>
         <KeenSliderAuto />
+      </div>
+
+      <div className={`w-full flex flex-col justify-center items-center mx-auto my-4 lg:my-6 overflow-hidden`}>
+        <AtletaCard />
       </div>
     </div>
   )
