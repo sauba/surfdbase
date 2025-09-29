@@ -1,5 +1,5 @@
 import { Menu, Transition } from "@headlessui/react"
-import { ListBullets } from "@phosphor-icons/react"
+import { List } from "@phosphor-icons/react"
 import { Fragment } from "react"
 
 export default function NavbarDropdownMenu() {
@@ -9,7 +9,7 @@ export default function NavbarDropdownMenu() {
         {({ open }) => (
           <Fragment>
             <Menu.Button className="inline-flex justify-items-start rounded-md text-red-50 border-none outline-none">
-              <ListBullets
+              <List
                 size={72}
                 weight="fill"
                 color="white"
