@@ -8,8 +8,8 @@ export default function Logo() {
       <Link href={"https://www.surfdbase.com.br"}>
         <Image
           src={logo}
-          width={440}
-          height={280}
+          width={400}
+          height={240}
           alt="Projeto Surf DBASE"
           priority
         />
