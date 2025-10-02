@@ -1,8 +1,10 @@
 import About from "@/components/About"
 import Atletas from "@/components/Atletas"
+import Events from "@/components/Events"
 import Footer from "@/components/Footer"
 import Header from "@/components/Header"
 import MissaoVisaoValores from "@/components/MissaoVisaoValores"
+import Partners from "@/components/Partners"
 import { Metadata } from "next"
 
 export const metadata: Metadata = {
@@ -27,6 +29,8 @@ export default function Home() {
       <About />
       <MissaoVisaoValores />
       <Atletas />
+      <Events />
+      <Partners />
       <Footer />
     </main>
   )

@@ -94,6 +94,39 @@ export default function NavbarDropdownMenu() {
 
                   <Menu.Item>
                     {({ active }) => (
+                      <div
+                        className={`
+                                flex
+                                my-2
+                                justify-center
+                                items-center
+                                ${active
+                            ? "bg-blue-400 text-red-50 text-2xl font-bold"
+                            : "bg-blue-400 text-red-50 font-bold"
+                          }
+                              `}
+                      >
+                        <a
+                          href="#atletas"
+                          className={`
+                                  flex
+                                  items-center
+                                  px-4
+                                  py-2
+                                  text-sm
+                                  gap-3
+                                  hover:font-bold
+                                  hover:text-lg
+                                `}
+                        >
+                          Atletas
+                        </a>
+                      </div>
+                    )}
+                  </Menu.Item>
+
+                  <Menu.Item>
+                    {({ active }) => (
                       <Menu.Items>
                         <Menu.Item>
                           {({ active }) => (
@@ -110,7 +143,7 @@ export default function NavbarDropdownMenu() {
                               `}
                             >
                               <a
-                                href="#eventos"
+                                href="#events"
                                 className={`
                                   flex
                                   items-center
@@ -128,38 +161,6 @@ export default function NavbarDropdownMenu() {
                           )}
                         </Menu.Item>
 
-                        <Menu.Item>
-                          {({ active }) => (
-                            <div
-                              className={`
-                                flex
-                                my-2
-                                justify-center
-                                items-center
-                                ${active
-                                  ? "bg-blue-400 text-red-50 text-2xl font-bold"
-                                  : "bg-blue-400 text-red-50 font-bold"
-                                }
-                              `}
-                            >
-                              <a
-                                href="#atletas"
-                                className={`
-                                  flex
-                                  items-center
-                                  px-4
-                                  py-2
-                                  text-sm
-                                  gap-3
-                                  hover:font-bold
-                                  hover:text-lg
-                                `}
-                              >
-                                Atletas
-                              </a>
-                            </div>
-                          )}
-                        </Menu.Item>
 
                         <Menu.Item>
                           {({ active }) => (
@@ -176,7 +177,7 @@ export default function NavbarDropdownMenu() {
                               `}
                             >
                               <a
-                                href="#parceiros"
+                                href="#partners"
                                 className={`
                                   flex
                                   items-center
