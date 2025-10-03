@@ -11,11 +11,9 @@ export default function About() {
         mx-auto
         justify-center
         items-center
-        to-amber-300
-       text-zinc-100
+       text-slate-950
         font-castoro-titling
-        bg-amanhecer
-        bg-center
+        bg-ceu-horizontal
       `}
       id="about"
     >
