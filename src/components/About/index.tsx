@@ -23,8 +23,7 @@ export default function About() {
       <p
         className={`
             px-3
-            pt-64
-            xl:pt-80
+            pt-80
             2xl:px-8
             text-xl
             xl:text-2xl
