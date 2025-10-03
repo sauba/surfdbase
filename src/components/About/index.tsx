@@ -26,6 +26,7 @@ export default function About() {
             pt-10
             xl:pt-80
             2xl:px-8
+            text-xl
             xl:text-2xl
             2xl:text-3xl
             text-center
