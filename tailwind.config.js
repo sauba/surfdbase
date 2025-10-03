@@ -96,10 +96,12 @@ module.exports = {
       },
       backgroundImage: {
         'logo': "url('/logo.svg')",
-        'daniele-profile2': "url('/perfilDani2.svg')",
-        'patient': "url('/patient.svg')",
-        'patient-happy': "url('/patientHappy.svg')",
-        'patient-couple': "url('/couple.svg')",
+        'amanhecer': "url('/amanhecer.svg')",
+        'nascer-do-sol': "url('/nascerdosol.svg')",
+        'ceu': "url('/ceu.svg')",
+        'ceu-praia': "url('/ceupraia.svg')",
+        'ceu-horizontal': "url('/ceuhorizontal.svg')",
+        'desenvolvimento-em-construcao': "url('/construcao.svg')",
       },
       screens: {
         'xs': '475px',
