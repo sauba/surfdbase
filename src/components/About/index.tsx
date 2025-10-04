@@ -9,7 +9,7 @@ export default function About() {
         flex
         flex-col
         mx-auto
-        justify-center
+        justify-evenly
         items-center
        text-slate-950
         font-castoro-titling
@@ -21,7 +21,6 @@ export default function About() {
       <p
         className={`
             px-3
-            xl:pt-80
             2xl:px-8
             text-xl
             xl:text-2xl
