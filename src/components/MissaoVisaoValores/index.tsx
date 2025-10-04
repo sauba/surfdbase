@@ -12,6 +12,7 @@ export default function MissaoVisaoValores() {
         xl:grid
         xl:grid-cols-3
         py-8
+        xl:py-32
         bg-blue-950
         text-red-50
         justify-around
