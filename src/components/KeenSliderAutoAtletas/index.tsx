@@ -34,11 +34,11 @@ export default function KeenSliderAutoAtletas() {
           <Image src={`/surfer.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Nome: 01</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Idade:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocinio:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos:</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Idade: 14 anos</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base: Regular</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocinio: Arena, Garra Fins</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito: Enseadas dos Corais</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos: Pipeline</span>
           </div>
         </span>
       </div>
