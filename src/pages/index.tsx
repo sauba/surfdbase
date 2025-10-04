@@ -3,6 +3,7 @@ import Atletas from "@/components/Atletas"
 import Events from "@/components/Events"
 import Footer from "@/components/Footer"
 import Header from "@/components/Header"
+import KeenSliderAutoAtletas from "@/components/KeenSliderAutoAtletas"
 import MissaoVisaoValores from "@/components/MissaoVisaoValores"
 import Partners from "@/components/Partners"
 import { Metadata } from "next"
@@ -31,6 +32,7 @@ export default function Home() {
       <Atletas />
       <Events />
       <Partners />
+      <KeenSliderAutoAtletas />
       <Footer />
     </main>
   )
