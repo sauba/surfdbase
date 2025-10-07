@@ -122,25 +122,25 @@ export default function KeenSliderAutoAtletas() {
       </div>
       <div className="keen-slider__slide number-slide8">
         <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
-          <Image src={`/surfer.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
+          <Image src={`/heitor.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Nome: 08</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Idade:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocinio:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos:</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Nome: Heitor Gomes Dantas Lima</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>10 Anos</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base: Regular</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocinio: Shark SurfBoard, Diretoria Surf Point, Gromettsurf e Oxe Surfboard</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito: Baia Formosa - RN</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos: São Paulo</span>
           </div>
         </span>
       </div>
       <div className="keen-slider__slide number-slide9">
         <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
-          <Image src={`/surfer.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
+          <Image src={`/miguel.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Nome: 09</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Idade:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocinio:</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Miguel Gomes Dantas Lima</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>12 Anos</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base: Regular</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocinio: Shark SurfBoard, Diretoria Surf Point, Gromettsurf e Oxe Surfboard e Arena Beach Clube</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito:</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos:</span>
           </div>
