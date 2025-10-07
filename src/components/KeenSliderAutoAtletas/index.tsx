@@ -30,7 +30,7 @@ export default function KeenSliderAutoAtletas() {
   return (
     <div ref={sliderRef} className="keen-slider">
       <div className="keen-slider__slide number-slide1">
-        <span className={`w-full h-96 flex-col xl:flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none p-4 bg-sky-500/80`}>
+        <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/messias.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Messias</span>
@@ -43,7 +43,7 @@ export default function KeenSliderAutoAtletas() {
         </span>
       </div>
       <div className="keen-slider__slide number-slide2">
-        <span className={`w-full h-96 flex-col xl:flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none p-4 bg-sky-500/80`}>
+        <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/paulinho.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Paulinho</span>
@@ -56,7 +56,7 @@ export default function KeenSliderAutoAtletas() {
         </span>
       </div>
       <div className="keen-slider__slide number-slide3">
-        <span className={`w-full h-96 flex-col xl:flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none p-4 bg-sky-500/80`}>
+        <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/yuri.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Yuri</span>
@@ -69,7 +69,7 @@ export default function KeenSliderAutoAtletas() {
         </span>
       </div>
       <div className="keen-slider__slide number-slide4">
-        <span className={`w-full h-96 flex-col xl:flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none p-4 bg-sky-500/80`}>
+        <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/nicolas.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Nicolas</span>
@@ -82,7 +82,7 @@ export default function KeenSliderAutoAtletas() {
         </span>
       </div>
       <div className="keen-slider__slide number-slide5">
-        <span className={`w-full h-96 flex-col xl:flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none p-4 bg-sky-500/80`}>
+        <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/jiskjr.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Nome: 05</span>
@@ -95,7 +95,7 @@ export default function KeenSliderAutoAtletas() {
         </span>
       </div>
       <div className="keen-slider__slide number-slide6">
-        <span className={`w-full h-96 flex-col xl:flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none p-4 bg-sky-500/80`}>
+        <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/ryan.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Nome: Ryan</span>
@@ -108,7 +108,7 @@ export default function KeenSliderAutoAtletas() {
         </span>
       </div>
       <div className="keen-slider__slide number-slide7">
-        <span className={`w-full h-96 flex-col xl:flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none p-4 bg-sky-500/80`}>
+        <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/joao.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>João</span>
@@ -121,7 +121,7 @@ export default function KeenSliderAutoAtletas() {
         </span>
       </div>
       <div className="keen-slider__slide number-slide8">
-        <span className={`w-full h-96 flex-col xl:flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none p-4 bg-sky-500/80`}>
+        <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/surfer.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Nome: 08</span>
@@ -134,7 +134,7 @@ export default function KeenSliderAutoAtletas() {
         </span>
       </div>
       <div className="keen-slider__slide number-slide9">
-        <span className={`w-full h-96 flex-col xl:flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none p-4 bg-sky-500/80`}>
+        <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/surfer.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Nome: 09</span>
@@ -147,7 +147,7 @@ export default function KeenSliderAutoAtletas() {
         </span>
       </div>
       <div className="keen-slider__slide number-slide10">
-        <span className={`w-full h-96 flex-col xl:flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none p-4 bg-sky-500/80`}>
+        <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/surfer.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Nome: 10</span>
