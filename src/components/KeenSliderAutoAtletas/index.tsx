@@ -128,7 +128,7 @@ export default function KeenSliderAutoAtletas() {
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>10 Anos</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base: Regular</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocinio: Shark SurfBoard, Diretoria Surf Point, Gromettsurf e Oxe Surfboard</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito: Baia Formosa - RN</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito: Baía Formosa - RN</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos: São Paulo</span>
           </div>
         </span>
@@ -141,8 +141,8 @@ export default function KeenSliderAutoAtletas() {
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>12 Anos</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base: Regular</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocinio: Shark SurfBoard, Diretoria Surf Point, Gromettsurf e Oxe Surfboard e Arena Beach Clube</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos:</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito: Baía Formosa - RN</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos: Austrália</span>
           </div>
         </span>
       </div>
