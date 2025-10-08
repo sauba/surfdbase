@@ -146,7 +146,7 @@ export default function KeenSliderAutoAtletas() {
           </div>
         </span>
       </div>
-      <div className="keen-slider__slide number-slide10">
+      {/* <div className="keen-slider__slide number-slide10">
         <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/surfer.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
@@ -158,7 +158,7 @@ export default function KeenSliderAutoAtletas() {
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos:</span>
           </div>
         </span>
-      </div>
+      </div> */}
     </div>
   )
 }
