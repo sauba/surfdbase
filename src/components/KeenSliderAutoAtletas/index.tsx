@@ -85,7 +85,7 @@ export default function KeenSliderAutoAtletas() {
         <span className={`w-full h-96 flex text-center justify-between xl:justify-center items-center gap-3 rounded-lg border-none outline-none bg-sky-500/80`}>
           <Image src={`/jiskjr.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Nome: 05</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Gabriel Medeiros</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Idade: ??</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base: ??</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocínio: ??</span>
