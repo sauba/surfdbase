@@ -12,6 +12,7 @@ export default function Logo() {
           height={120}
           alt="Projeto Surf DBASE"
           priority
+          onLoad={e => e.currentTarget.classList.add("animate-ping-slow-stop")}
         />
       </Link>
     </span>
