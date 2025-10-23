@@ -50,8 +50,8 @@ export default function KeenSliderAutoAtletas() {
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>12 Anos</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base:Goofy</span>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocínio: JM Surfboards, Dinâmica Funcional</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos:</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito: Porto de Galinhas</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos: Indonésia</span>
           </div>
         </span>
       </div>
@@ -60,11 +60,11 @@ export default function KeenSliderAutoAtletas() {
           <Image src={`/yuri.svg`} width={180} height={180} alt="" className={`mx-auto hover:cursor-pointer`} priority />
           <div className={`flex flex-col justify-center items-center`}>
             <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Yuri</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Idade:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocínio:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito:</span>
-            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos:</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Idade: 12 anos</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Base: Goofy</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Apoio|Patrocínio: Sea Snake Surfboards</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Pico Favorito: Itapuama</span>
+            <span className={`text-lg xl:text-xl 2xl:text-2xl font-pt-mono text-zinc-100`}>Viagem dos Sonhos: Teahupoʻo</span>
           </div>
         </span>
       </div>
